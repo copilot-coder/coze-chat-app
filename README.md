@@ -1,6 +1,6 @@
 ## Overview
 
-本仓库仅用于展示如何用coze chat-sdk接入coze studio，里面很多信息是hard code的，并非一个完备的应用。
+本仓库仅用于展示如何用coze chat-sdk接入coze studio的智能体，里面很多信息是hard code的，并非一个完备的应用。
 
 公众号文章：https://mp.weixin.qq.com/s/q3oQd6Tng6hf0uNQTxZ5SQ
 
